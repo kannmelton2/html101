@@ -32,6 +32,16 @@ li a:hover {
     background-color: #111;
 }
 
+.card {
+    border: 2px white solid;
+    border-radius: 5px;
+    max-width: 20%;
+}
+
+img {
+    height: 150px;
+}
+
 footer {
     width: 100%;
     color: white;
