@@ -2,7 +2,7 @@ body {
     background-color: darkred;
     margin: 0;
     text-align: center;
-
+    font-family: Helvetica;
     min-height: 400px;
     margin-bottom: 100px;
     clear: both;
@@ -36,6 +36,8 @@ li a:hover {
     border: 2px white solid;
     border-radius: 5px;
     max-width: 20%;
+    margin: 0 auto;
+    padding: 2%;
 }
 
 img {
